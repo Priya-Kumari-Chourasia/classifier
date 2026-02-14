@@ -1,6 +1,6 @@
-# Sports vs Politics Headline Classifier
+# Sports vs Politics Text Classifier
 
-This project implements a text classifier that predicts whether a news headline belongs to **Sports** or **Politics**. The system uses three machine learning techniques and TF-IDF vectorization for feature representation.
+This project implements a text classifier that predicts whether a text belongs to **Sports** or **Politics**. The system uses three machine learning techniques and TF-IDF vectorization for feature representation.
 
 ---
 
