@@ -1,6 +1,5 @@
 # Sports vs Politics Text Classifier
 
-# Sports vs Politics Text Classifier
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m0syDHGngW9f-lMCN-zi8kl4kmGTlC2J?usp=sharing)
 
