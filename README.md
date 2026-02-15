@@ -1,5 +1,10 @@
 # Sports vs Politics Text Classifier
 
+# Sports vs Politics Text Classifier
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m0syDHGngW9f-lMCN-zi8kl4kmGTlC2J?usp=sharing)
+
+
 This project implements a text classifier that predicts whether a text belongs to **Sports** or **Politics**. The system uses three machine learning techniques and TF-IDF vectorization for feature representation.
 
 ---
